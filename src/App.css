@@ -1,0 +1,14 @@
+#root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  max-width: 1280px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.active {
+  color: rgb(64, 60, 60) 
+}
